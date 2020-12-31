@@ -2,6 +2,7 @@ package com.java8bank.online_banking_uis.account;
 
 public class AccountInfo {
 
+	//this is all about user info
 	private String accountName;
 	private long accountNo;
 	private int id;
